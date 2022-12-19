@@ -1,0 +1,30 @@
+{
+  "name": "itihad-frontend",
+  "version": "0.1.0",
+  "description": "front end for itihad website built by nodejs",
+  "main": "pages/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayas-faraj/itihad-frontend.git"
+  },
+  "author": "Mayas Faraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayas-faraj/itihad-frontend/issues"
+  },
+  "homepage": "https://github.com/mayas-faraj/itihad-frontend#readme",
+  "dependencies": {
+    "@apollo/client": "^3.7.2",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.0",
+    "graphql": "^16.6.0",
+    "next": "^13.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
